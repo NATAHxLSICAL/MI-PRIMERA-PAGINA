@@ -1,0 +1,20 @@
+<html lang="en"> 
+
+
+function dijosi(){
+document.getElementById('si').style.display
+ class="titulo">
+<h1>¿Quieres ser mi novia ?< /h1>
+</div>
+<div class="opciones">
+<p class="p1">No</p>
+<p onclick="dijoSi()" class="p2">Si</p>
+<div id="si">
+<h2>Sabria que querrias mylove</h2>
+= 'block';
+
+</script>
+</head>
+<body>
+<div class="contenedor">
+<div
